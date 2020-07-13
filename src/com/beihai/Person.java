@@ -3,6 +3,7 @@ package com.beihai;
 public class Person {
     private String id;
     private String name;
+    private String sex;
 
     public String getId() {
         return id;
